@@ -1,0 +1,173 @@
+ {
+"name": "MOVIE ONLINE",
+"author": "เตี้ย",
+"image":"https://www.dropbox.com/scl/fi/4i6cqdvsv79gyooept5wx/Movieonline_nontrue.png?rlkey=vola1jdn3xktyci015kcwhis7&dl=1",
+"url": "",
+"stations":[
+{
+"name":"HBO",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+"url":"http://54.37.19.157/hbohd/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+{
+"name":"HBO",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+ 	                 
+{
+"name":"HBOHits",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbohits1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{     
+"name":"HBOSignature",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbosignature1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"HBOFamily",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6"},
+
+{
+"name":"Cinemax",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+"url":"http://54.37.19.157/cinemax/playlist.m3u8",
+"info":"Server 3bbtv",
+"online":"true"},
+
+{
+"name":"Cinemax",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029"},
+
+{
+"name":" Action Hollywood Movies",
+"image":"https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",
+"url":" https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+"referer":"https://cdn-apse1-prod/",
+"info":"Server cdn-apse1-prod",
+"playInNatPlayer":"true"},
+
+{
+"name":"RockAction",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/rockaction1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"RockEnterainment",
+"image":"https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/rockenterainment1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+  
+{
+"name":"Axn",
+"image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/trueaxn1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+ 
+{
+"name":"Warnertv",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/warnertv1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+ 
+{
+"name":"trueTHAIFILM",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/truethaifilm1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueFILM1",  
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/truefilm1-1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueFILM2",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/truefilm2.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueMOVIEHITS",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/truemoviehits1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueFILMASIA",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/truefilmasia1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+ 
+{
+"name":"trueSeries",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/trueseries1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{ 
+"name":"trueASIANMORE",
+"image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/trueasianmore1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"CCM",
+"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/trueccm1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"AsianHits",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48"},
+]
+}
