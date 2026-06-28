@@ -5,163 +5,194 @@
 		"stations":[
 
 {
-"name": " CH3 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008"},
+"name":"NBT", 
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8",
+"referer":"https://cdn-edge.iiptvcdn.com",
+"info":"Server iiptvcdn",
+"playInNatPlayer":"true"},
+ 
+{
+"name":"ThaiTPBS",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",  
+"url":"http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"info":"Server thaipbs",
+"playInNatPlayer":"true"},
 
 {
-"name": " CH5 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34"},
+"name":"ALTV4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
+"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer":"https://thaipbs-ujxrch.cdn.byteark.com",
+"info":"Server thaipbs",
+"playInNatPlayer":"true"},
 
 {
-"name": " CH7 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3"},
+"name":"Ch5",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+"url":"https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+"referer":"https://streamlock.net/",
+"info":"Server streamlock.net",
+"playInNatPlayer":"true"},
 
 {
-"name": " MCOT ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b"},
+"name":"TSport7",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
+"url":"https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8",
+"referer":"https://livesod365.info/",
+"info":"Server livesod365",
+"playInNatPlayer":"true"},
 
 {
-"name": " NBT ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14"},
+"name":"Thai Parliament TV",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png",
+"url":"https://tv-live.tpchannel.org/live/tv_1080p.m3u8",
+"referer":"https://tv-live.tpchannel",
+"info":"Server tv-live",
+"playInNatPlayer":"true"},
 
 {
-"name": " THAI PBS ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3"},
+"name":"TNN16", 
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png", 
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6"},
 
 {
-"name": " TNN16 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6"},
+"name":"Nation", 
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png", 
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2"},
 
 {
-"name": " NATION ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2"},
+"name":"Workpoint",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34"},
+	               
+{
+"name":"true4U",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25"},
 
 {
-"name": " PPTV ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cnt2-streamer2.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31"},
+"name":"Gmm25",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec"},
 
 {
-"name": " AMARIN TV ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b"},
+"name":"CH8",  
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",  
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/28/28.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807"},
 
 {
-"name": " THAIRATH ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956"},
+"name":"Mono29",  
+"image":"https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",  
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516"},
 
 {
-"name": " ONE31HD ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e"},
+"name":"MonoPlusHD",  
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
+"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c"},
+		                
+{
+"name":"Mcotสำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d"},
+		
+{
+"name":"One31",  
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",  
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e"},
+		
+{
+"name":"ThairatTV",  
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",  
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956"},
+				
+{
+"name":"Ch3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008"},
+             
+{
+"name":"AmarinTV",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
+"info":"Server 3bbtv",
+"online":"true",
+"drm":"clearkey","drmkey":"0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b"},
+				             					
+{
+"name":"Ch7",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+"url":"https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8",
+"referer":"https://livech7hd",
+"info":"Server livech7hd",
+"playInNatPlayer":"true"},	       
+				
+{
+"name":"PPTV",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url":"https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8",
+"referer":"https://lb-gmmz.sky-cdn.com/",
+"info":"Server gmmz.sky-cdn.com",
+"playInNatPlayer":"true"},
+                
+{
+"name":"Topnews",  
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG",
+"url":"https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+"referer":"https://live.topnews.co.th",
+"info":"Server live.topnews",
+"playInNatPlayer":"true"},
+		
+{
+"name":"New1",  
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",         
+"url":"https://server1.streamssl.com/stream/news1_hi.m3u8",
+"referer":"https://server1.streamssl.com",
+"info":"Server streamssl",
+"playInNatPlayer":"true"},
 
 {
-"name": " MONO29 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516"},
-
-{
-"name": " GMM25 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpdtps",
-"online": "true",
-"drm": "clearkey", "drmkey": "ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec"},
-
-{
-"name": " WORKPOINT ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47"},
-
-{
-"name": " TRUE4U ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25"},
-
-{
-"name": " CH8 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807"},
-
-{
-"name": " JKN18 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26"},
-
-{
-"name": " T-SPORT7 ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba"},
-
-{
-"name": " TPTV ",
-"image": "https",
-"imageScale": "fitStart",
-"url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd",
-"online": "true",
-"drm": "clearkey", "drmkey": "5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb"},
+"name":"13SiamThai",  
+"image":"https://i.imgur.com/FvEp1S2.png",         
+"url":"https://live.x2.co.th/live/13livetv-th.m3u8",
+"referer":"https://live.x2.co.th",
+"info":"Server live.x2",
+"playInNatPlayer":"true"},
 ]
 }
