@@ -1,0 +1,385 @@
+{
+		"name": "Sport tv",
+		"author": "",
+		"image":"https://www.234.in.th/images/2021/01/19/140554938_737807463828690_1976502965141248595_n.png",
+		"url": "",
+		"stations":[
+{		
+"name": "WorldCup",		
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu7gQoNOKnWwlQQPvEjV00BkjefHBjYE-OQ&s",		
+"url":"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8",		
+"embed":"",
+"playInNatPlayer":"true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+
+
+{		
+"name": "MonoMAX 1",		
+"image": "https://www.dropbox.com/scl/fi/qgq3m0vei1zgwwpragzqk/sYyiuEg5rNU.jpg?rlkey=jwtdyf7y9ofmga5t8y3luypr2&dl=1",		
+"url":"http://54.37.19.157/monomax1/playlist.m3u8",		
+"embed":"",
+"playInNatPlayer":"true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 2",		
+"image": "https://www.dropbox.com/scl/fi/hqmckjmdhk9penez4lzgf/Xg7D41W9nCA.jpg?rlkey=2wngq1wwag1nsp7cnwmlt8bf0&dl=1",		
+"url" : "http://54.37.19.157/monomax2/playlist.m3u8",		
+"embed": "",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 3 ",		
+"image": "https://www.dropbox.com/scl/fi/zj734rcngc532wvjcj97u/QoZvad55JuE.jpg?rlkey=tkn4rpizoql7txkgwmzsc8hlr&dl=1",		
+"url" : "http://54.37.19.157/monomax3/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 4 ",		
+"image": "https://www.dropbox.com/scl/fi/9x1b6ndryl1s48zxcuvge/NzRKXEx07Rz.jpg?rlkey=d8id4ljygrrr1gmuzvqo71h9w&dl=1",		
+"url" : "http://54.37.19.157/monomax4/playlist.m3u8",		
+"embed": "",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 5 ",		
+"image": "https://www.dropbox.com/scl/fi/opsizg0kv7miecbo8qpxh/ytf9dEAHJkI.jpg?rlkey=bqxi7k01hqh18uifvadjy37of&dl=1",
+"url" : "http://54.37.19.157/monomax5/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 6 ",		
+"image": "https://www.dropbox.com/scl/fi/ammix32rkr078qum0af1u/mvGcvtMljQK.jpg?rlkey=mugqm0nn0spuipsuw9ckw45ui&dl=1",		
+"url" : "http://54.37.19.157/monomax6/playlist.m3u8",		
+"embed": "",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 7 ",		
+"image": "https://www.dropbox.com/scl/fi/usescrrn4ukimx50jbwtt/qhacBoEAuMX.jpg?rlkey=0udt87sod0782oxbqtowiju8k&dl=1",		
+"url" : "http://54.37.19.157/monomax7/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 8 ",		
+"image": "https://www.dropbox.com/scl/fi/bmu3jddf37sjgmvsk9wbf/eUuWR0xZ6Lf.jpg?rlkey=nrcr5tsx7upiod5v123y29yln&dl=1",		
+"url" : "http://54.37.19.157/monomax8/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 9",		
+"image": "https://heng99bet.com/wp-content/uploads/2025/08/tv-station-4688.png.webp",		
+"url" : "http://54.37.19.157/monomax9/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 10 ",		
+"image": "https://heng99bet.com/wp-content/uploads/2025/08/tv-station-4689.png.webp",		
+"url" : "http://54.37.19.157/monomax10/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 11 ",		
+"image": "https://heng99bet.com/wp-content/uploads/2025/08/tv-station-4690.png.webp",		
+"url" : "http://54.37.19.157/monomax11/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+{		
+"name": "MonoMAX 12 ",		
+"image": "https://heng99bet.com/wp-content/uploads/2025/08/tv-station-4691.png.webp",		
+"url" : "http://54.37.19.157/monomax12/playlist.m3u8",		
+"embed": "true",
+"playInNatPlayer": "true",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},]}
+
+{"name": "True Premier Football 3🇹🇭",
+"image": "https://www.dropbox.com/scl/fi/smzqv1nw1ngwf2jp74uzh/1664499681.png?rlkey=suy942o426ttpirllfcrfyzg7&dl=1",
+"url":"http://119.59.118.168/live/ch43/irannahee/index.m3u8",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "True Premier Football 3🇹🇭",
+"image": "https://www.dropbox.com/scl/fi/smzqv1nw1ngwf2jp74uzh/1664499681.png?rlkey=suy942o426ttpirllfcrfyzg7&dl=1",
+"url" : "https://love.pifipa2974.workers.dev/vx-origin/epl-3_480/chunks.m3u8",
+"playInNatPlayer": "true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
+
+
+{"name": "True Premier Football 4🇹🇭",
+"image": "https://www.dropbox.com/scl/fi/333uv2pm6u33i69jikya9/1664499692.png?rlkey=iht586pck1pifvxxwenl4ey4u&dl=1",
+"url" : "https://d16nfrkchxr2en.cloudfront.net/tpf4/chunks.m3u8",
+"referer":"https://www.movie2k.io/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+
+{"name": "True Premier Football 4🇹🇭",
+"image": "https://www.dropbox.com/scl/fi/333uv2pm6u33i69jikya9/1664499692.png?rlkey=iht586pck1pifvxxwenl4ey4u&dl=1",
+"url":"https://www.dropbox.com/scl/fi/n8h6j5fgog5luhxiyzt9p/tpf4.m3u8?rlkey=gepvmon3oqhfo6uf2lhfi8bj0&dl=1",
+"referer":"https://demo-live.siamzeed.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+
+{"name": "True Premier Football 5🇹🇭",
+"image": "https://www.dropbox.com/scl/fi/0r1h5wxlle5cekqg2v7sz/1664499700.png?rlkey=oe07fwtti8g5gkx00pf8fjdji&dl=1",
+"url" : "https://d16nfrkchxr2en.cloudfront.net/tpf5/chunks.m3u8",
+"referer":"https://www.movie2k.io/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+
+
+{"name": "True Premier Football 5🇹🇭",
+"image": "https://www.dropbox.com/scl/fi/0r1h5wxlle5cekqg2v7sz/1664499700.png?rlkey=oe07fwtti8g5gkx00pf8fjdji&dl=1",
+"url":"https://9jgfst7x0e.bikinifilms.co.uk/xstream/premier-5/chunks.m3u8",
+"referer":"https://demo-live.siamzeed.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 1",
+"image": "https://www.fileinwtv.site/postor/20250904190235Monomax1.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1495",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 2",
+"image": "https://www.fileinwtv.site/postor/20250904190145Monomax2.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1494",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 3",
+"image": "https://www.fileinwtv.site/postor/20250904190017Monomax3.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1493",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 4",
+"image": "https://www.fileinwtv.site/postor/20250904185727Monomax4.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1492",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 5",
+"image": "https://www.fileinwtv.site/postor/20250904185628Monomax5.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1491",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 6",
+"image": "https://www.fileinwtv.site/postor/20250904185435Monomax6.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1490",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 7",
+"image": "https://www.fileinwtv.site/postor/20250904185314Monomax7.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1489",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 8",
+"image": "https://www.fileinwtv.site/postor/20250904184956Monomax8.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1488",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 9",
+"image": "https://www.fileinwtv.site/postor/20250904185026Monomax9.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1487",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Mono MAX 10",
+"image": "https://www.fileinwtv.site/postor/20250904184605Monomax10.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1486",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports1-A🇹🇭",
+"image": "https://image.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
+"url":"https://night.redfight.info/iptv.php?id=7424",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports2-A🇹🇭",
+"image": "https://image.thai-play.com/images/tv/bein-sport-th-2.png",
+"url":"https://night.redfight.info/iptv.php?id=7423",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports3-A🇹🇭",
+"image": "https://image.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
+"url":"https://night.redfight.info/iptv.php?id=7422",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports1",
+"image": "https://www.fileinwtv.site/postor/20240418192615Bein1.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein1_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports2",
+"image": "https://www.fileinwtv.site/postor/20240418192624Bein2.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein2_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports3",
+"image": "https://www.fileinwtv.site/postor/20240418192653Bein3.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein1_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports4",
+"image": "https://www.fileinwtv.site/postor/20240418192706Bein4.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein4_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports5",
+"image": "https://www.fileinwtv.site/postor/20240418192717Bein5.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein5_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports6",
+"image": "https://www.fileinwtv.site/postor/20240418192728Bein6.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein6_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports7",
+"image": "https://www.fileinwtv.site/postor/20240418195754Bein7.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein7_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports8",
+"image": "https://www.fileinwtv.site/postor/20240831143535Bein8.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein8_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports9",
+"image": "https://www.fileinwtv.site/postor/20240831143312Bein9.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein9_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "beIN Sports10",
+"image": "https://www.fileinwtv.site/postor/20240831143640Bein10.jpg",
+"url": "https://love.pifipa2974.workers.dev/lx-origin/hd-bein10_480/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "Realmadrid TV",
+"image": "https://www.fileinwtv.site/postor/20250903090211Realmardridtv.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1231",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "MUTV",
+"image": "https://www.fileinwtv.site/postor/20250419153707MUTV.jpg",
+"url":"https://night.redfight.info/iptv.php?id=1239",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+
+{"name": "tennis",
+"image":"https://www.dropbox.com/scl/fi/4r73nolocj56bw4bjyocd/truetennis.png?rlkey=8yeuq7wpwyb35q7fa96drb8yk&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2101",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "golfchannel",
+"image":"https://www.dropbox.com/scl/fi/zq82qrc9x7wftjk9989d5/1664801941.png?rlkey=qkn9zc21xh66ip6unthoy9ohx&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=7203",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+
+{"name":"True Sports1-A🇹🇭",
+"image":"https://www.dropbox.com/scl/fi/azpoqyj0srxsjd5krd3g2/truesporthd.png?rlkey=phvqbxox4i1t7x4xqjc2tz89b&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2892",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+
+
+
+{"name": "True Sports2-B🇹🇭",
+"image":"https://www.dropbox.com/scl/fi/jyv9m0bnpw9p9ixgabuxc/truesporthd2.png?rlkey=bbtp86r21qp5bjeg4k1gme5z3&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2891",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+
+
+{"name": "True Sports3-A🇹🇭",
+"image":"https://www.dropbox.com/scl/fi/t24dhcpax56vse8f5l4ck/truesporthd3.png?rlkey=glqena965nvmhd1v9ozejmqn8&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2890",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+
+
+{"name":"True Sports5-A🇹🇭",
+"image":"https://www.dropbox.com/scl/fi/eha6kbzh84qx8jfus21zd/truesporthd5.png?rlkey=0t29bvtljzngk0k9uw8pshqqi&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2888",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name":"True Sports7-A🇹🇭",
+"image":"https://www.dropbox.com/scl/fi/w3tnsnhsilh0g50maxt0d/truesporthd7.png?rlkey=u4vno5jnafysqpvyvxq6aj9bj&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2829",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+
+{"name": "SPOTV-A🇹🇭",
+"image":"https://www.dropbox.com/scl/fi/qcltsj1793qa3yhtsbd46/spotv1.png?rlkey=xbkgn1e1mgdmqv36wa9i5rf6m&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2027",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "SPOTV2-A🇹🇭",
+"image":"https://www.dropbox.com/scl/fi/fsq1d48x6t3lmy1nmbecb/MjjNBcRjUcAq8qMlGMLE5lD97u28Quzspotv2.png?rlkey=qxj3078vnc55jq8gsas6etnxy&dl=1",
+"url":"https://night.redfight.info/iptv.php?id=2023",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "SPORT TV1",
+"image":"https://www.fileinwtv.site/postor/20240419205040SportTV1.jpg",
+"url":"https://night.redfight.info/iptv.php?id=63481",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "SPORT TV2",
+"image":"https://www.fileinwtv.site/postor/20240419205104SportTV2.jpg",
+"url":"https://night.redfight.info/iptv.php?id=63478",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "SPORT TV3",
+"image":"https://www.fileinwtv.site/postor/20240419205116SportTV3.jpg",
+"url":"https://night.redfight.info/iptv.php?id=63475",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "SPORT TV4",
+"image":"https://www.fileinwtv.site/postor/20240419205132SportTV4.jpg",
+"url":"https://night.redfight.info/iptv.php?id=63472",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name": "SPORT TV5",
+"image":"https://www.fileinwtv.site/postor/20240419205157SportTV5.jpg",
+"url":"https://night.redfight.info/iptv.php?id=63471",
+"referer": "https://night.redfight.info/iptv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"}]},
+
