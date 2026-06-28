@@ -22,24 +22,24 @@
 {
 "name":"HBOHits",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
-"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbohits1.m3u8",
-"referer":"https://github.com/",
+"url":"https://live.livedoomovies.com:4433/api/hls/live/2819/playlist.m3u8",
+"referer":"https://live.livedoomovies.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
 
 {     
 "name":"HBOSignature",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
-"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbosignature1.m3u8",
-"referer":"https://github.com/",
+"url":"https://live.livedoomovies.com:4433/api/hls/live/2818/playlist.m3u8",
+"referer":"https://live.livedoomovies.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
 
 {
 "name":"HBOFamily",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
-"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
-"info":"Server 3bbtv",
+"url":"https://live.livedoomovies.com:4433/api/hls/live/2816/playlist.m3u8",
+"referer":"https://live.livedoomovies.com/",
 "online":"true",
 "drm":"clearkey","drmkey":"07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6"},
 
