@@ -81,7 +81,15 @@
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
-  
+
+{
+"name":"Axn",
+"image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
+"url":"http://54.37.19.157/axn/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
 {
 "name":"Axn",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
@@ -89,7 +97,15 @@
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
- 
+
+{
+"name":"Warnertv",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url":"http://54.37.19.157/warner/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
 {
 "name":"Warnertv",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
@@ -97,11 +113,27 @@
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
- 
+
+{
+"name":"trueTHAIFILM",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"http://54.37.19.157/True_Thai_Film/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
 {
 "name":"trueTHAIFILM",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "url":"https://github.com/cattv976/movies/raw/refs/heads/main/truethaifilm1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueFILM1",  
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
+"url":"http://54.37.19.157/True_Film_1/playlist.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -117,7 +149,23 @@
 {
 "name":"trueFILM2",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"http://54.37.19.157/True_Film_2/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueFILM2",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "url":"https://github.com/cattv976/movies/raw/refs/heads/main/truefilm2.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueMOVIEHITS",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"http://54.37.19.157/moviehits/playlist.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -133,15 +181,39 @@
 {
 "name":"trueFILMASIA",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"http://54.37.19.157/True_Film_Asia/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{
+"name":"trueFILMASIA",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "url":"https://github.com/cattv976/movies/raw/refs/heads/main/truefilmasia1.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
- 
+
+{
+"name":"trueSeries",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"http://54.37.19.157/True_Series/playlist.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
 {
 "name":"trueSeries",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "url":"https://github.com/cattv976/movies/raw/refs/heads/main/trueseries1.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
+
+{ 
+"name":"trueASIANMORE",
+"image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
+"url":"http://54.37.19.157/asian_more/playlist.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
