@@ -11,7 +11,13 @@
 "embed":"",
 "playInNatPlayer":"true",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
-
+{		
+"name": "WorldCup",		
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu7gQoNOKnWwlQQPvEjV00BkjefHBjYE-OQ&s",		
+"url":"http://54.37.19.157/monomax11/playlist.m3u8",		
+"embed":"",
+"playInNatPlayer":"true",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
 
 {		
 "name": "MonoMAX 1",		
