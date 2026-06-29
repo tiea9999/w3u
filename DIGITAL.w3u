@@ -6,7 +6,7 @@
 
 {
 "name":"NBT", 
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
 "url":"https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8",
 "referer":"https://cdn-edge.iiptvcdn.com",
 "info":"Server iiptvcdn",
@@ -16,14 +16,6 @@
 "name":"ThaiTPBS",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",  
 "url":"http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-"info":"Server thaipbs",
-"playInNatPlayer":"true"},
-
-{
-"name":"ALTV4",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
-"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-"referer":"https://thaipbs-ujxrch.cdn.byteark.com",
 "info":"Server thaipbs",
 "playInNatPlayer":"true"},
 
@@ -38,7 +30,7 @@
 {
 "name":"TSport7",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-"url":"https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8",
+"url":"http://54.37.19.157/tsport7/tracks-v1a1/mono.m3u8",
 "referer":"https://livesod365.info/",
 "info":"Server livesod365",
 "playInNatPlayer":"true"},
@@ -54,7 +46,7 @@
 {
 "name":"TNN16", 
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png", 
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd",
+"url":"http://54.37.19.157/tnn16/playlist.m3u8",
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6"},
@@ -86,7 +78,7 @@
 {
 "name":"Gmm25",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
+"url":"http://54.37.19.157/gmm25/playlist.m3u8",
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec"},
@@ -94,7 +86,7 @@
 {
 "name":"CH8",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",  
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/28/28.mpd",
+"url":"http://54.37.19.157/ch8/playlist.m3u8",
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807"},
@@ -110,7 +102,7 @@
 {
 "name":"MonoPlusHD",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
+"url":"http://54.37.19.157/mono29_plus/tracks-v1a1/mono.m3u8",
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c"},
@@ -126,7 +118,7 @@
 {
 "name":"One31",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",  
-"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
+"url":"http://54.37.19.157/one31/playlist.m3u8",
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e"},
@@ -142,7 +134,7 @@
 {
 "name":"Ch3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
+"url":"http://54.37.19.157/ch3/playlist.m3u8",
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008"},
@@ -166,7 +158,7 @@
 {
 "name":"PPTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-"url":"https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8",
+"url":"http://54.37.19.157/pptv/playlist.m3u8",
 "referer":"https://lb-gmmz.sky-cdn.com/",
 "info":"Server gmmz.sky-cdn.com",
 "playInNatPlayer":"true"},
@@ -187,12 +179,6 @@
 "info":"Server streamssl",
 "playInNatPlayer":"true"},
 
-{
-"name":"13SiamThai",  
-"image":"https://i.imgur.com/FvEp1S2.png",         
-"url":"https://live.x2.co.th/live/13livetv-th.m3u8",
-"referer":"https://live.x2.co.th",
-"info":"Server live.x2",
-"playInNatPlayer":"true"},
+
 ]
 }
